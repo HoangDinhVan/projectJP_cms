@@ -175,7 +175,7 @@ export class HomePage extends React.PureComponent {
         <div className="row">
           <div className="col-md-8 col-lg-8">
            <Block>
-              <h1 > WELCOME TO <strong >QNU JAPAN CENTER ADMIN PANEL</strong></h1>
+              <h1 > WELCOME TO QNU JAPAN CENTER ADMIN PANEL</h1>
               <br></br>
               <h2> You can view, create and dalete all data in this page. </h2>
               <br></br>
