@@ -1,6 +1,7 @@
 {
   "host": "localhost",
   "port": 1339,
+
   "proxy": {
     "enabled": false
   },
